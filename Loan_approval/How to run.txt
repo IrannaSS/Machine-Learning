@@ -1,0 +1,2 @@
+python AIML.py
+python -m streamlit run app.py
